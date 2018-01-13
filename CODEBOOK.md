@@ -4,6 +4,7 @@ This code book summarizes the resulting data fields in tidy.txt.
 Identifiers
 
 subject - The ID of the test subject
+
 activitys - The type of activity performed when the corresponding measurements were taken
 
 Measurements
@@ -86,7 +87,7 @@ fBodyBodyGyroMagStd,
 fBodyBodyGyroMagMeanFreq,
 fBodyBodyGyroJerkMagMean,
 fBodyBodyGyroJerkMagStd,
-fBodyBodyGyroJerkMagMeanFreq,
+fBodyBodyGyroJerkMagMeanFreq
 
 Activity Labels
 
