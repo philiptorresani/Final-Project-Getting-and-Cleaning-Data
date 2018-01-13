@@ -2,9 +2,11 @@
 
 Files in this project
 
-README.md -- you are reading it right now
-CodeBook.md -- codebook describing variables, the data and transformations
-Final Project Tidy Data.R-- actual R code
+README.md
+
+CodeBook.md - describes variables in project
+
+Final Project Tidy Data.R- the R code
 
 Description of the DATA
 
